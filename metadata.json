@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn AI Post Automator",
+  "description": "An automation pipeline to detect trending AI topics, generate a storytelling-style LinkedIn post, create a matching AI-driven image, and prepare it for publishing.",
+  "requestFramePermissions": []
+}
